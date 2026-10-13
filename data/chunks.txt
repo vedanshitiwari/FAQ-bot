@@ -1,0 +1,5899 @@
+HDFC Groww FAQ chunks (Phase 2)
+chunk_size=800 overlap=150
+total_chunks=138
+
+================================================================================
+chunk_id: 0001
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: snapshot
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 188
+--------------------------------------------------------------------------------
+HDFC Balanced Advantage Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
+NAV: 13 Oct '26
+₹548.71
+Min. for SIP
+₹100
+Fund size (AUM)
+₹1,02,533.95 Cr
+Expense ratio
+0.77%
+Rating
+5
+
+================================================================================
+chunk_id: 0002
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 262
+--------------------------------------------------------------------------------
+Return calculator
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹57,988
+-3.35
+%
+3 years
+₹1,80,000
+₹1,84,286
++
+2.38
+%
+5 years
+₹3,00,000
+₹3,80,318
++
+26.77
+%
+10 years
+₹6,00,000
+₹12,17,403
++
+102.90
+%
+
+================================================================================
+chunk_id: 0003
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+Holdings (
+327
+)
+Name
+Sector
+Instruments
+Assets
+ICICI Bank Ltd
+Financial
+Equity
+5.06%
+HDFC Bank Ltd
+Financial
+Equity
+4.32%
+Reliance Industries Ltd
+Energy & Utilities
+Equity
+3.64%
+State Bank of India
+Financial
+Equity
+3.28%
+Bharti Airtel Ltd
+Technology
+Equity
+3.05%
+Axis Bank Ltd
+Financial
+Equity
+2.65%
+Larsen & Toubro Ltd
+Industrials
+Equity
+2.52%
+GOI Sec 7.18 14/08/2033
+Entities
+GOI Securities
+2.04%
+NTPC Ltd
+Energy & Utilities
+Equity
+2.00%
+Coal India Ltd
+Materials
+Equity
+1.77%
+Zomato Ltd
+Technology
+Equity
+1.68%
+Kotak Mahindra Bank Ltd
+Financial
+Equity
+1.58%
+Sun Pharmaceutical Industries Ltd
+Healthcare
+Equity
+1.55%
+Infosys Ltd
+Technology
+Equity
+1.45%
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Equity
+1.42%
+HCL Technologies Ltd
+Technology
+Equity
+1.21%
+Net Current Assets
+Unspecified
+
+================================================================================
+chunk_id: 0004
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 755
+--------------------------------------------------------------------------------
+y
+Equity
+1.45%
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Equity
+1.42%
+HCL Technologies Ltd
+Technology
+Equity
+1.21%
+Net Current Assets
+Unspecified
+Net Current Assets
+1.18%
+Interglobe Aviation Ltd
+Industrials
+Equity
+1.18%
+Life Insurance Corporation of India
+Financial
+Equity
+1.17%
+Lupin Ltd
+Healthcare
+Equity
+1.13%
+ITC Ltd
+Consumer Staples
+Equity
+1.10%
+Tata Consultancy Services Ltd
+Technology
+Equity
+1.08%
+SBI Life Insurance Company Ltd
+Financial
+Equity
+0.88%
+Embassy Office Parks REIT
+Real Estate
+Real Estate Investment Trusts
+0.83%
+Mahindra & Mahindra Ltd
+Consumer Discretionary
+Equity
+0.82%
+GAIL (India) Ltd
+Energy & Utilities
+Equity
+0.82%
+Divi's Laboratories Ltd
+Healthcare
+Equity
+0.81%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+0.79%
+
+================================================================================
+chunk_id: 0005
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 787
+--------------------------------------------------------------------------------
+ndia) Ltd
+Energy & Utilities
+Equity
+0.82%
+Divi's Laboratories Ltd
+Healthcare
+Equity
+0.81%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+0.79%
+GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100
+Entities
+GOI Securities
+0.74%
+Tata Steel Ltd
+Materials
+Equity
+0.68%
+Bank Of Baroda
+Financial
+Equity
+0.67%
+Apar Industries Ltd
+Diversified
+Equity
+0.64%
+LIC HOUSING FINANCE LTD TR 447 7.57 NCD 18OT29 FVRS1LAC
+Financial
+Bonds/Debentures
+0.63%
+Bharat Petroleum Corporation Ltd
+Energy & Utilities
+Equity
+0.61%
+Hindustan Petroleum Corporation Ltd
+Energy & Utilities
+Equity
+0.60%
+JSW Infrastructure Ltd
+Industrials
+Equity
+0.59%
+Power Finance Corporation Ltd
+Financial
+Equity
+0.59%
+STATE BANK OF INDIA SR 2 7.33 BD 20SP39 FVRS1CR
+Financial
+Bonds
+0.58%
+Indusind Bank Ltd
+Financial
+Equity
+0.57%
+
+================================================================================
+chunk_id: 0006
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 781
+--------------------------------------------------------------------------------
+Corporation Ltd
+Financial
+Equity
+0.59%
+STATE BANK OF INDIA SR 2 7.33 BD 20SP39 FVRS1CR
+Financial
+Bonds
+0.58%
+Indusind Bank Ltd
+Financial
+Equity
+0.57%
+Ultratech Cement Ltd
+Materials
+Equity
+0.56%
+GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100
+Entities
+GOI Securities
+0.55%
+Brookfield India Real Estate Trust REIT
+Real Estate
+Real Estate Investment Trusts
+0.51%
+PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC
+Industrials
+Debenture
+0.50%
+REC Ltd
+Financial
+Equity
+0.50%
+STATE BANK OF INDIA SR I 7.42 BD 29AG39 FVRS1CR
+Financial
+Debenture
+0.49%
+AU Small Finance Bank Ltd
+Financial
+Equity
+0.48%
+GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100
+Entities
+GOI Securities
+0.48%
+Ipca Laboratories Ltd
+Healthcare
+Equity
+0.47%
+Jindal Steel & Power Ltd
+Materials
+Equity
+0.47%
+
+================================================================================
+chunk_id: 0007
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+8 GOI 08AP34 7.1 FV RS 100
+Entities
+GOI Securities
+0.48%
+Ipca Laboratories Ltd
+Healthcare
+Equity
+0.47%
+Jindal Steel & Power Ltd
+Materials
+Equity
+0.47%
+Dynamatic Technologies Ltd
+Consumer Discretionary
+Equity
+0.46%
+Hindustan Aeronautics Ltd
+Industrials
+Equity
+0.45%
+Aurobindo Pharma Ltd
+Healthcare
+Equity
+0.44%
+Canara HSBC Life Insurance Company Ltd.
+Financial
+Equity
+0.43%
+Cholamandalam Investment & Finance Company Ltd
+Financial
+Equity
+0.43%
+TORRENT POWER LIMITED SR 15 TR D 8.20 NCD 24JU36 FVRS1LAC
+Energy & Utilities
+Non Convertible Debenture
+0.42%
+Techno Electric & Engineering Company Ltd
+Industrials
+Equity
+0.42%
+GOI Sec 7.18 24/07/2037
+Entities
+GOI Securities
+0.42%
+BEML Ltd
+Industrials
+Equity
+0.42%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+0.40%
+Kaynes Technology India Ltd
+Industrials
+
+================================================================================
+chunk_id: 0008
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 750
+--------------------------------------------------------------------------------
+ties
+GOI Securities
+0.42%
+BEML Ltd
+Industrials
+Equity
+0.42%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+0.40%
+Kaynes Technology India Ltd
+Industrials
+Equity
+0.39%
+WeWork India Management Ltd.
+Industrials
+Equity
+0.39%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC
+Financial
+Bonds/NCDs
+0.39%
+Britannia Industries Ltd
+Consumer Staples
+Equity
+0.38%
+REC LIMITED SR 201B 6.90 BD 31MR31 FVRS10LAC
+Financial
+Debenture
+0.38%
+Gujarat Pipavav Port Ltd
+Industrials
+Equity
+0.37%
+Vishal Mega Mart Ltd.
+Consumer Staples
+Equity
+0.37%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC
+Financial
+Debenture
+0.37%
+Apollo Tyres Ltd
+Consumer Discretionary
+Equity
+0.36%
+Bharat Forge Ltd
+Consumer Discretionary
+Equity
+0.35%
+
+================================================================================
+chunk_id: 0009
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+BD 24NV28 FVRS1LAC
+Financial
+Debenture
+0.37%
+Apollo Tyres Ltd
+Consumer Discretionary
+Equity
+0.36%
+Bharat Forge Ltd
+Consumer Discretionary
+Equity
+0.35%
+HDFC BANK LIMITED SR AA010 7.80 NCD 06SP32 FVRS10LAC
+Financial
+Debenture
+0.34%
+Bajaj Finserv Ltd
+Financial
+Equity
+0.34%
+Five-Star Business Finance Ltd
+Financial
+Equity
+0.34%
+Titagarh Wagons Ltd
+Industrials
+Equity
+0.34%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 179 7.44 BD 13JU34 FVRS1LAC
+Financial
+Bonds
+0.33%
+STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100
+Industrials
+State Development Loan
+0.33%
+HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR E 7.29 NCD 12FB35 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.33%
+BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC
+Financial
+Bonds/NCDs
+0.32%
+Hindustan Unilever Ltd
+Consumer Staples
+
+================================================================================
+chunk_id: 0010
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 798
+--------------------------------------------------------------------------------
+cial
+Non Convertible Debenture
+0.33%
+BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC
+Financial
+Bonds/NCDs
+0.32%
+Hindustan Unilever Ltd
+Consumer Staples
+Equity
+0.31%
+Savita Oil Technologies Ltd
+Materials
+Equity
+0.31%
+INVIT POWERGRID INFRASTRUCTURE INVESTMENT TRUST
+Industrials
+Infrastructure Investment Trust
+0.31%
+Bosch Ltd
+Consumer Discretionary
+Equity
+0.30%
+Ambuja Cements Ltd
+Materials
+Equity
+0.30%
+MUTHOOT FINANCE LIMITED RR NCD 04SP29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.29%
+BAJAJ FINANCE LIMITED 7.82% NCD 31JN34 FVRS1LAC
+Financial
+Debenture
+0.29%
+ULTRATECH CEMENT LIMITED SR I 7.22 NCD 02FB29 FVRS1LAC
+Materials
+Non Convertible Debenture
+0.29%
+Oil & Natural Gas Corporation Ltd
+Energy & Utilities
+Equity
+0.29%
+HDFC BANK LIMITED SR US006 7.75 NCD 13JU33 FVRS1LAC
+Financial
+Debenture
+
+================================================================================
+chunk_id: 0011
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 755
+--------------------------------------------------------------------------------
+enture
+0.29%
+Oil & Natural Gas Corporation Ltd
+Energy & Utilities
+Equity
+0.29%
+HDFC BANK LIMITED SR US006 7.75 NCD 13JU33 FVRS1LAC
+Financial
+Debenture
+0.28%
+Alkem Laboratories Ltd
+Healthcare
+Equity
+0.28%
+Rubicon Research Ltd.
+Healthcare
+Equity
+0.28%
+United Spirits Ltd
+Consumer Staples
+Equity
+0.28%
+JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC
+Industrials
+Debenture
+0.28%
+Mishra Dhatu Nigam Ltd
+Materials
+Equity
+0.28%
+Mphasis Ltd
+Technology
+Equity
+0.27%
+Kalpataru Power Transmission Ltd
+Industrials
+Equity
+0.26%
+HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
+Technology
+Equity
+0.26%
+Tega Industries Ltd
+Industrials
+Equity
+0.25%
+HDB FINANCIAL SERVICES LIMITED SR A/1 FX 198 7.988 LOA 08DC26 FVRS1LAC
+Financial
+Debenture
+0.24%
+
+================================================================================
+chunk_id: 0012
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 781
+--------------------------------------------------------------------------------
+ty
+0.26%
+Tega Industries Ltd
+Industrials
+Equity
+0.25%
+HDB FINANCIAL SERVICES LIMITED SR A/1 FX 198 7.988 LOA 08DC26 FVRS1LAC
+Financial
+Debenture
+0.24%
+LIC HOUSING FINANCE LTD TR 439 7.73 NCD 22MR34 FVRS 1LAC
+Financial
+Non Convertible Debenture
+0.24%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC
+Financial
+Bonds
+0.24%
+BAJAJ HOUSING FINANCE LIMITED 7.66 NCD 20MR28 FVRS1LAC
+Financial
+Debenture
+0.24%
+BANK OF BARODA CD 06JAN27
+Financial
+Certificate of Deposit
+0.24%
+BANK OF BARODA SR XXV 7.75 BD 21DC33 FVRS1CR
+Financial
+Bonds
+0.24%
+BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.24%
+Aavas Financiers Ltd
+Financial
+Equity
+0.24%
+BAJAJ HOUSING FINANCE LIMITED 7.89 NCD 14JL34 FVRS1LAC
+Financial
+Debenture
+0.24%
+
+================================================================================
+chunk_id: 0013
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 785
+--------------------------------------------------------------------------------
+nvertible Debenture
+0.24%
+Aavas Financiers Ltd
+Financial
+Equity
+0.24%
+BAJAJ HOUSING FINANCE LIMITED 7.89 NCD 14JL34 FVRS1LAC
+Financial
+Debenture
+0.24%
+PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC
+Financial
+Bonds
+0.24%
+Bharat Dynamics Ltd
+Industrials
+Equity
+0.23%
+Lakshmi Machine Works Ltd
+Industrials
+Equity
+0.23%
+J Kumar Infraprojects Ltd
+Industrials
+Equity
+0.22%
+INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24
+Unspecified
+Securitised Debt
+0.22%
+NATIONAL HOUSING BANK 7.35 BD 02JN32 FVRS1LAC
+Financial
+Bonds
+0.21%
+Time Technoplast Ltd
+Materials
+Equity
+0.21%
+NHPC Ltd
+Energy & Utilities
+Equity
+0.21%
+PCBL Ltd
+Materials
+Equity
+0.20%
+Trent Ltd
+Consumer Discretionary
+Equity
+0.20%
+Glenmark Pharmaceuticals Ltd
+Healthcare
+Equity
+0.20%
+Godrej Properties Ltd
+Real Estate
+Equity
+0.20%
+
+================================================================================
+chunk_id: 0014
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 753
+--------------------------------------------------------------------------------
+.20%
+Trent Ltd
+Consumer Discretionary
+Equity
+0.20%
+Glenmark Pharmaceuticals Ltd
+Healthcare
+Equity
+0.20%
+Godrej Properties Ltd
+Real Estate
+Equity
+0.20%
+Billionbrains Garage Ventures Ltd.
+Financial
+Equity
+0.20%
+Entero Healthcare Solutions Ltd.
+Healthcare
+Equity
+0.20%
+CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.20%
+NATIONAL HOUSING BANK 7.59 BD 08SP27 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.20%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 175 7.57 BD 18AP29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.19%
+SUNDARAM FINANCE LIMITED SR Z7 7.24 NCD 14FB28 FVRS1LAC
+Financial
+Debenture
+0.19%
+STATE BANK OF INDIA SR I 7.81 BD 02NV38 FVRS1CR
+Financial
+Debenture
+0.19%
+
+================================================================================
+chunk_id: 0015
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 779
+--------------------------------------------------------------------------------
+RAM FINANCE LIMITED SR Z7 7.24 NCD 14FB28 FVRS1LAC
+Financial
+Debenture
+0.19%
+STATE BANK OF INDIA SR I 7.81 BD 02NV38 FVRS1CR
+Financial
+Debenture
+0.19%
+MAHANAGAR TELEPHONE NIGAM LIMITED. SR VIII TR C 7.80 BD 07NV33 FVRS1LAC
+Technology
+Non Convertible Debenture
+0.19%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC
+Financial
+Bonds
+0.19%
+LIC HOUSING FINANCE LTD TR 446 7.65 NCD 19AG31 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.19%
+Tech Mahindra Ltd
+Technology
+Equity
+0.18%
+STATE DEVELOPMENT LOAN 36288 MP 06AG43 7.22 FV RS 100
+Unspecified
+State Development Loan
+0.18%
+Suven Pharmaceuticals Ltd
+Healthcare
+Equity
+0.18%
+Repo
+Unspecified
+Repo
+0.17%
+CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD80 8.88 NCD 25JU33 FVRS1LAC
+Financial
+
+================================================================================
+chunk_id: 0016
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 786
+--------------------------------------------------------------------------------
+td
+Healthcare
+Equity
+0.18%
+Repo
+Unspecified
+Repo
+0.17%
+CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD80 8.88 NCD 25JU33 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.17%
+CESC Ltd
+Energy & Utilities
+Equity
+0.17%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 180 7.39 BD 15JL34 FVRS1LAC
+Financial
+Debenture
+0.17%
+Ashoka Buildcon Ltd
+Industrials
+Equity
+0.17%
+Tata Motors Ltd
+Industrials
+Equity
+0.16%
+Ashok Leyland Ltd
+Industrials
+Equity
+0.16%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24E 7.80 BD 15MR27 FVRS1LAC
+Financial
+Debenture
+0.16%
+7.35% RECL 31 JULY 2034
+Financial
+Bonds
+0.16%
+STATE DEVELOPMENT LOAN 36290 MP 06AG48 7.22 FV RS 100
+Unspecified
+State Development Loan
+0.15%
+LIC HOUSING FINANCE LTD TR 438 7.8350 NCD 11MY27 FVRS1LAC
+Financial
+Debenture
+0.15%
+
+================================================================================
+chunk_id: 0017
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+MP 06AG48 7.22 FV RS 100
+Unspecified
+State Development Loan
+0.15%
+LIC HOUSING FINANCE LTD TR 438 7.8350 NCD 11MY27 FVRS1LAC
+Financial
+Debenture
+0.15%
+Asian Paints Ltd
+Materials
+Equity
+0.15%
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Equity
+0.15%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC
+Financial
+Debenture
+0.15%
+MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC
+Financial
+Debenture
+0.15%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC
+Financial
+Debenture
+0.15%
+LIC HOUSING FINANCE LTD TR 451 7.66 NCD 11DC29 FVRS 1LAC
+Financial
+Bonds
+0.15%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC
+Financial
+Bonds
+0.14%
+HDFC Life Insurance Co Ltd
+Financial
+Equity
+0.14%
+YES BANK LIMITED CD 11MAR27
+
+================================================================================
+chunk_id: 0018
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 766
+--------------------------------------------------------------------------------
+ANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC
+Financial
+Bonds
+0.14%
+HDFC Life Insurance Co Ltd
+Financial
+Equity
+0.14%
+YES BANK LIMITED CD 11MAR27
+Financial
+Certificate of Deposit
+0.14%
+CG Power & Industrial Solutions Ltd
+Industrials
+Equity
+0.14%
+POWER GRID CORPORATION OF INDIA LIMITED SR LXXX 7.12 BD 24DC34 FVRS1LAC
+Energy & Utilities
+Bonds
+0.14%
+Cipla Ltd
+Healthcare
+Equity
+0.14%
+Garden Reach Shipbuilders & Engineers Ltd
+Industrials
+Equity
+0.14%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 187 7.28 BD 14FB40 FVRS1LAC
+Financial
+Bonds
+0.13%
+Shriram Transport Finance Company Ltd
+Financial
+Equity
+0.13%
+DLF Ltd
+Real Estate
+Equity
+0.13%
+SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC
+Financial
+Debenture
+0.13%
+Bandhan Bank Ltd
+Financial
+Equity
+0.13%
+
+================================================================================
+chunk_id: 0019
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 796
+--------------------------------------------------------------------------------
+Ltd
+Real Estate
+Equity
+0.13%
+SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC
+Financial
+Debenture
+0.13%
+Bandhan Bank Ltd
+Financial
+Equity
+0.13%
+TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC
+Financial
+Debenture
+0.13%
+Whirlpool Of India Ltd
+Consumer Discretionary
+Equity
+0.12%
+India Universal Trust AL1 Sec. Debt 8.09 21/11/2027
+Unspecified
+Securitised Debt
+0.12%
+Dr. Reddy's Laboratories Ltd
+Healthcare
+Equity
+0.12%
+GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100
+Entities
+GOI Securities
+0.12%
+HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR F 7.37 NCD 12MR35 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.12%
+Aditya Birla Sun Life AMC Ltd
+Financial
+Equity
+0.12%
+BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC
+Financial
+Non Convertible Debenture
+
+================================================================================
+chunk_id: 0020
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 772
+--------------------------------------------------------------------------------
+0.12%
+Aditya Birla Sun Life AMC Ltd
+Financial
+Equity
+0.12%
+BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.12%
+JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD8 7.43 LOA 24OT34 FVRS1LAC
+Industrials
+Debenture
+0.11%
+PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC
+Industrials
+Debenture
+0.11%
+LG Electronics India Ltd.
+Consumer Discretionary
+Equity
+0.11%
+Info Edge (India) Ltd
+Technology
+Equity
+0.11%
+Gujarat Industries Power Company Ltd
+Energy & Utilities
+Equity
+0.11%
+Tata Motors Ltd
+Consumer Discretionary
+Equity
+0.11%
+REC LIMITED SR 199 7.96 BD 15JU30 FVRS10LAC
+Financial
+Non Convertible Debenture
+0.11%
+Avenue Supermarts Ltd
+Consumer Staples
+Equity
+0.11%
+SBI Cards & Payments Services Ltd
+Financial
+Equity
+0.11%
+
+================================================================================
+chunk_id: 0021
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+Financial
+Non Convertible Debenture
+0.11%
+Avenue Supermarts Ltd
+Consumer Staples
+Equity
+0.11%
+SBI Cards & Payments Services Ltd
+Financial
+Equity
+0.11%
+Jio Financial Services Limited
+Financial
+Equity
+0.11%
+POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC
+Financial
+Bonds
+0.10%
+Blue Dart Express Ltd
+Industrials
+Equity
+0.10%
+LIC Housing Finance Ltd Debenture 8.75 08/12/2028
+Financial
+Debenture
+0.10%
+KOTAK MAHINDRA INVESTMENTS LIMITED 8.1929 NCD 28JN27 FVRS1LAC
+Financial
+Bonds/NCDs
+0.10%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC
+Financial
+Bonds
+0.10%
+NATIONAL HOUSING BANK 7.59 BD 14JL27 FVRS1LAC
+Financial
+Debenture
+0.10%
+Swiggy Ltd.
+Technology
+Equity
+0.10%
+CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC
+
+================================================================================
+chunk_id: 0022
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 799
+--------------------------------------------------------------------------------
+S1LAC
+Financial
+Debenture
+0.10%
+Swiggy Ltd.
+Technology
+Equity
+0.10%
+CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC
+Financial
+Debenture
+0.10%
+LIC HOUSING FINANCE LIMITED TR 417 OPT I 6.40 LOA 30NV26 FVRS10LAC
+Financial
+Debenture
+0.10%
+LIC HOUSING FINANCE LIMITED TR- 353 7.75 LOA 23NV27 FVRS10LAC
+Financial
+Non Convertible Debenture
+0.10%
+LIC HOUSING FINANCE LTD TR 440 7.87 NCD 14MY29 FVRS1LAC
+Financial
+Debenture
+0.10%
+TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.10%
+LIC HOUSING FINANCE LIMITED TR 434 OP I 7.70 LOA 16MY28 FVRS10LAC
+Financial
+Debenture
+0.10%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC
+Financial
+Bonds
+0.10%
+BAJAJ FINANCE LIMITED 8.08 NCD 20MY36 FVRS1LAC
+Financial
+Debenture
+
+================================================================================
+chunk_id: 0023
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 792
+--------------------------------------------------------------------------------
+STRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC
+Financial
+Bonds
+0.10%
+BAJAJ FINANCE LIMITED 8.08 NCD 20MY36 FVRS1LAC
+Financial
+Debenture
+0.10%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 181 7.37 BD 31JL29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.10%
+POWER FINANCE CORPORATION LIMITED SR 258A 6.92 BD 16FB28 FVRS1LAC
+Financial
+Debenture
+0.10%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC
+Financial
+Bonds
+0.10%
+NATIONAL HOUSING BANK 7.51 BD 04AP31 FVRS1LAC
+Financial
+Bonds/NCDs
+0.10%
+POWER FINANCE CORPORATION LIMITED SR 247A 7.44 BD 15JN30 FVRS1LAC
+Financial
+Bonds
+0.10%
+GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100
+Entities
+GOI Securities
+0.10%
+HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC
+
+================================================================================
+chunk_id: 0024
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 795
+--------------------------------------------------------------------------------
+OF INDIA 37426 GOI 11MY36 6.94 FV RS 100
+Entities
+GOI Securities
+0.10%
+HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.10%
+UNION BANK OF INDIA CD 19JAN27
+Financial
+Certificate of Deposit
+0.10%
+STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100
+Financial
+State Development Loan
+0.10%
+JSW Energy Ltd
+Energy & Utilities
+Equity
+0.10%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25F 7.37 BD 28MY35 FVRS1LAC
+Financial
+Bonds
+0.09%
+Texmaco Rail & Engineering Ltd
+Industrials
+Equity
+0.09%
+BAJAJ FINANCE LIMITED 7.70 NCD 04OT34 FVRS1LAC
+Financial
+Bonds/Debentures
+0.09%
+Milky Mist Dairy Food Ltd.
+Consumer Staples
+Equity
+0.09%
+STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100
+Unspecified
+State Development Loan
+0.09%
+
+================================================================================
+chunk_id: 0025
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 791
+--------------------------------------------------------------------------------
+ilky Mist Dairy Food Ltd.
+Consumer Staples
+Equity
+0.09%
+STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100
+Unspecified
+State Development Loan
+0.09%
+Indraprastha Gas Ltd
+Energy & Utilities
+Equity
+0.09%
+Jubilant FoodWorks Ltd
+Consumer Discretionary
+Equity
+0.09%
+STATE DEVELOPMENT LOAN 30969 MP 17NV41 6.99 FV RS 100
+Unspecified
+State Development Loan
+0.09%
+UTI Asset Management Company Ltd
+Financial
+Equity
+0.09%
+STATE DEVELOPMENT LOAN 36739 GUJ 26NV33 7.07 FV RS 100
+Industrials
+State Development Loan
+0.09%
+Aegis Vopak Terminals Ltd.
+Energy & Utilities
+Equity
+0.08%
+Tenneco Clean Air India Ltd.
+Consumer Discretionary
+Equity
+0.08%
+REC LIMITED SR 233 7.53 BD 31MY34 FVRS1LAC
+Financial
+Bonds
+0.08%
+STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100
+Financial
+State Development Loan
+0.08%
+
+================================================================================
+chunk_id: 0026
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 775
+--------------------------------------------------------------------------------
+ITED SR 233 7.53 BD 31MY34 FVRS1LAC
+Financial
+Bonds
+0.08%
+STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100
+Financial
+State Development Loan
+0.08%
+GOVERNMENT OF INDIA 31909 GOI 22AG32 7.26 FV RS 100
+Entities
+GOI Securities
+0.07%
+Indian Railway Finance Corporation Ltd Debenture 7.49 30/05/2027
+Financial
+Debenture
+0.07%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.07%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC
+Financial
+Debenture
+0.07%
+POWER FINANCE CORPORATION LIMITED SR 247B 7.40 BD 15JN35 FVRS1LAC
+Financial
+Bonds
+0.07%
+L&T METRO RAIL (HYDERABAD) LIMITED 7.55 NCD 28AP35 FVRS1LAC
+Industrials
+Non Convertible Debenture
+0.07%
+NUVOCO Vistas Corp Ltd
+Materials
+Equity
+0.07%
+
+================================================================================
+chunk_id: 0027
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 748
+--------------------------------------------------------------------------------
+L&T METRO RAIL (HYDERABAD) LIMITED 7.55 NCD 28AP35 FVRS1LAC
+Industrials
+Non Convertible Debenture
+0.07%
+NUVOCO Vistas Corp Ltd
+Materials
+Equity
+0.07%
+Home First Finance Company India Ltd
+Financial
+Equity
+0.07%
+ITC Hotels Ltd
+Consumer Discretionary
+Equity
+0.07%
+STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100
+Unspecified
+State Development Loan
+0.07%
+STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100
+Financial
+State Development Loan
+0.06%
+Ceigall India Ltd.
+Industrials
+Equity
+0.06%
+Zee Entertainment Enterprises Ltd
+Consumer Discretionary
+Equity
+0.06%
+Torrent Power Ltd
+Energy & Utilities
+Equity
+0.06%
+STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100
+Financial
+State Development Loan
+0.06%
+Vodafone Idea Ltd
+Technology
+Equity
+0.06%
+
+================================================================================
+chunk_id: 0028
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 775
+--------------------------------------------------------------------------------
+es
+Equity
+0.06%
+STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100
+Financial
+State Development Loan
+0.06%
+Vodafone Idea Ltd
+Technology
+Equity
+0.06%
+HDFC BANK LIMITED SR Y005 6.83 NCD 08JN31 FVRS10LAC
+Financial
+Non Convertible Debenture
+0.06%
+BHARTI TELECOM LIMITED SR XXIX 7.75 NCD 29FB28 FVRS1LAC
+Technology
+Debenture
+0.06%
+Westlife Development Ltd
+Consumer Discretionary
+Equity
+0.05%
+Housing & Urban Development Corporation Ltd
+Financial
+Equity
+0.05%
+Elevate Campuses Ltd.
+Industrials
+Equity
+0.05%
+GOVERNMENT OF INDIA 33071 GOI 19JU53 7.3 FV RS 100
+Entities
+GOI Securities
+0.05%
+Persistent Systems Ltd
+Technology
+Equity
+0.05%
+IIFL Wealth Management Ltd
+Financial
+Equity
+0.05%
+STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100
+Unspecified
+State Development Loan
+0.05%
+
+================================================================================
+chunk_id: 0029
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 761
+--------------------------------------------------------------------------------
+0.05%
+IIFL Wealth Management Ltd
+Financial
+Equity
+0.05%
+STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100
+Unspecified
+State Development Loan
+0.05%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24C 7.83 BD 30DC26 FVRS1LAC
+Financial
+Bonds/NCDs
+0.05%
+GRASIM INDUSTRIES LIMITED SR II 7.63 LOA 01DC27 FVRS10LAC
+Materials
+Bonds
+0.05%
+7.90% LIC Housing Finance Ltd NCD 23-06-2027
+Financial
+Bonds
+0.05%
+GRASIM INDUSTRIES LIMITED SR I 7.50 LOA 10JU27 FVRS10LAC
+Materials
+Debenture
+0.05%
+Power Grid Corporation of India Ltd Debenture 7.30 19/06/2027
+Energy & Utilities
+Debenture
+0.05%
+STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100
+Industrials
+State Development Loan
+0.05%
+HDFC BANK LIMITED SR US003 7.70 NCD 16MY28 FVRS1LAC
+Financial
+Debenture
+0.05%
+
+================================================================================
+chunk_id: 0030
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 794
+--------------------------------------------------------------------------------
+33844 GUJ 17JN33 7.64 FV RS 100
+Industrials
+State Development Loan
+0.05%
+HDFC BANK LIMITED SR US003 7.70 NCD 16MY28 FVRS1LAC
+Financial
+Debenture
+0.05%
+INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 172B 7.45 BD 13OT28 FVRS1LAC
+Financial
+Bonds/NCDs
+0.05%
+INDIAN OIL CORPORATION LIMITED SR XXVII 7.25 NCD 06JN30 FVRS1LAC
+Energy & Utilities
+Non Convertible Debenture
+0.05%
+7.48 SIDBI 24.05.2029
+Financial
+Bonds
+0.05%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC
+Financial
+Bonds
+0.05%
+HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC
+Financial
+Debenture
+0.05%
+BHARTI TELECOM LIMITED SR XXX 7.85 NCD 20MR29 FVRS1LAC
+Technology
+Non Convertible Debenture
+0.05%
+Bharti Hexacom Ltd.
+Technology
+Equity
+0.05%
+STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100
+Unspecified
+
+================================================================================
+chunk_id: 0031
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 799
+--------------------------------------------------------------------------------
+chnology
+Non Convertible Debenture
+0.05%
+Bharti Hexacom Ltd.
+Technology
+Equity
+0.05%
+STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100
+Unspecified
+State Development Loan
+0.05%
+HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR B 6.90 NCD 06MY30 FVRS1LAC
+Financial
+Debenture
+0.05%
+STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100
+Unspecified
+State Development Loan
+0.05%
+NATIONAL HOUSING BANK 6.80 BD 02AP32 FVRS1LAC
+Financial
+Bonds
+0.05%
+STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100
+Industrials
+State Development Loan
+0.04%
+ICICI Prudential Asset Management Company Ltd.
+Financial
+Equity
+0.04%
+Voltas Ltd
+Industrials
+Equity
+0.04%
+STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100
+Unspecified
+State Development Loan
+0.04%
+Adani Ports and Special Economic Zone Ltd
+Industrials
+
+================================================================================
+chunk_id: 0032
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100
+Unspecified
+State Development Loan
+0.04%
+Adani Ports and Special Economic Zone Ltd
+Industrials
+Equity
+0.04%
+Devyani International Ltd
+Consumer Discretionary
+Equity
+0.04%
+PB Fintech Ltd
+Financial
+Equity
+0.04%
+STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100
+Industrials
+State Development Loan
+0.04%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC
+Financial
+Debenture
+0.04%
+LIC HOUSING FINANCE LTD TR 454 7.58 NCD 23MR35 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.04%
+RHI Magnesita India Ltd
+Materials
+Equity
+0.04%
+RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC
+Financial
+Zero Coupon Bonds
+0.03%
+STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100
+Industrials
+
+================================================================================
+chunk_id: 0033
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 764
+--------------------------------------------------------------------------------
+RATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC
+Financial
+Zero Coupon Bonds
+0.03%
+STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100
+Industrials
+State Development Loan
+0.03%
+Colgate-Palmolive (India) Ltd
+Consumer Staples
+Equity
+0.03%
+HDFC BANK LIMITED SR W010 7.40 NCD 28FB30 FVRS10LAC
+Financial
+Fixed Deposits
+0.03%
+GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100
+Entities
+GOI Securities
+0.03%
+Uttar Pradesh State Government Securities (20/03/2036)
+Unspecified
+State Development Loan
+0.03%
+Ramco Systems Ltd
+Technology
+Equity
+0.03%
+SBI Funds Management Ltd
+Financial
+Equity
+0.03%
+STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100
+Industrials
+State Development Loan
+0.03%
+HDFC BANK LIMITED SR Z007 7.10 NCD 12NV31 FVRS10LAC
+Financial
+Debenture
+0.03%
+
+================================================================================
+chunk_id: 0034
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 785
+--------------------------------------------------------------------------------
+33877 GUJ 24JN34 7.63 FV RS 100
+Industrials
+State Development Loan
+0.03%
+HDFC BANK LIMITED SR Z007 7.10 NCD 12NV31 FVRS10LAC
+Financial
+Debenture
+0.03%
+Medi Assist Healthcare Services Ltd.
+Industrials
+Equity
+0.03%
+Chambal Fertilisers & Chemicals Ltd
+Materials
+Equity
+0.02%
+MUTHOOT FINANCE LIMITED 9.02 NCD 14JL27 FVRS1LAC
+Financial
+Debenture
+0.02%
+7.75% IRFC NCD RED 15-04-2033**
+Financial
+Debenture
+0.02%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC
+Financial
+Bonds
+0.02%
+AXIS FINANCE LIMITED SR 03 RR NCD 11JN29 FVRS1LAC
+Financial
+Non Convertible Debenture
+0.02%
+HEG Ltd
+Industrials
+Equity
+0.02%
+TruAlt Bioenergy Ltd.
+Energy & Utilities
+Equity
+0.02%
+Coromandel International Ltd
+Materials
+Equity
+0.02%
+Aditya Infotech Ltd.
+Technology
+Equity
+0.02%
+
+================================================================================
+chunk_id: 0035
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 783
+--------------------------------------------------------------------------------
+TruAlt Bioenergy Ltd.
+Energy & Utilities
+Equity
+0.02%
+Coromandel International Ltd
+Materials
+Equity
+0.02%
+Aditya Infotech Ltd.
+Technology
+Equity
+0.02%
+GOI Sec 7.23 15/04/2039
+Entities
+GOI Securities
+0.02%
+STATE DEVELOPMENT LOAN 34136 MH 22MR39 7.45 FV RS 100
+Unspecified
+State Development Loan
+0.02%
+BEML Land Assets Ltd.
+Real Estate
+Equity
+0.02%
+SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23
+Financial
+Securitised Debt
+0.02%
+Gsec C-STRIPS Mat 17-June-2028
+Entities
+GOI Securities
+0.02%
+Varun Beverages Ltd
+Consumer Staples
+Equity
+0.02%
+L&T Finance Holdings Ltd
+Financial
+Equity
+0.02%
+Bajaj Housing Finance Ltd.
+Financial
+Equity
+0.02%
+Fusion Micro Finance Ltd
+Financial
+Equity
+0.02%
+Emcure Pharmaceuticals Ltd.
+Healthcare
+Equity
+0.02%
+Paradeep Phosphates Ltd
+Materials
+Equity
+0.01%
+
+================================================================================
+chunk_id: 0036
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 783
+--------------------------------------------------------------------------------
+02%
+Fusion Micro Finance Ltd
+Financial
+Equity
+0.02%
+Emcure Pharmaceuticals Ltd.
+Healthcare
+Equity
+0.02%
+Paradeep Phosphates Ltd
+Materials
+Equity
+0.01%
+Tata Chemicals Ltd
+Materials
+Equity
+0.01%
+Rites Ltd
+Industrials
+Equity
+0.01%
+Shiprocket Ltd.
+Technology
+Equity
+0.01%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+0.01%
+Union Bank of India
+Financial
+Equity
+0.01%
+JNK India Ltd.
+Industrials
+Equity
+0.01%
+Campus Activewear Ltd
+Consumer Discretionary
+Equity
+0.01%
+STATE DEVELOPMENT LOAN 33896 MH 31JN35 7.63 FV RS 100
+Unspecified
+State Development Loan
+0.01%
+UPL Ltd
+Materials
+Equity
+0.01%
+Aster DM Healthcare Ltd
+Healthcare
+Equity
+0.01%
+Raajmarg Infra Investment Trust
+Industrials
+Infrastructure Investment Trust
+0.01%
+Tamil Nadu Newsprint & Papers Ltd
+Materials
+Equity
+0.01%
+
+================================================================================
+chunk_id: 0037
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 753
+--------------------------------------------------------------------------------
+quity
+0.01%
+Raajmarg Infra Investment Trust
+Industrials
+Infrastructure Investment Trust
+0.01%
+Tamil Nadu Newsprint & Papers Ltd
+Materials
+Equity
+0.01%
+CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100
+Entities
+GOI Securities
+0.00%
+GOI Sec 7.17 17/04/2030
+Entities
+GOI Securities
+0.00%
+CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100
+Entities
+GOI Securities
+0.00%
+Kwality Walls India Ltd
+Consumer Staples
+Equity
+0.00%
+Blue Star Ltd
+Industrials
+Equity
+0.00%
+GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100
+Entities
+GOI Securities
+0.00%
+STATE DEVELOPMENT LOAN 34101 CHT 20MR34 7.47 FV RS 100
+Unspecified
+State Development Loan
+0.00%
+S Chand And Co Ltd
+Consumer Discretionary
+Equity
+0.00%
+CMR Green Technologies Ltd.
+Materials
+Equity
+0.00%
+
+================================================================================
+chunk_id: 0038
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 548
+--------------------------------------------------------------------------------
+100
+Unspecified
+State Development Loan
+0.00%
+S Chand And Co Ltd
+Consumer Discretionary
+Equity
+0.00%
+CMR Green Technologies Ltd.
+Materials
+Equity
+0.00%
+GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100
+Entities
+GOI Securities
+0.00%
+Tata Consumer Products Ltd
+Consumer Staples
+Equity
+0.00%
+Indus Towers Ltd
+Technology
+Equity
+0.00%
+MEP Infrastructure Developers Ltd
+Industrials
+Equity
+0.00%
+AGS Transact Technologies Ltd
+Industrials
+Equity
+0.00%
+See All
+Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+
+================================================================================
+chunk_id: 0039
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 421
+--------------------------------------------------------------------------------
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++9.6%
++12.5%
++13.0%
++14.0%
+Category average (
+Hybrid Dynamic Asset Allocation
+)
++8.8%
++8.4%
++9.9%
++10.8%
+Rank (
+Hybrid Dynamic Asset Allocation
+)
+11
+1
+--
+--
+
+================================================================================
+chunk_id: 0040
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 734
+--------------------------------------------------------------------------------
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+
+================================================================================
+chunk_id: 0041
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 794
+--------------------------------------------------------------------------------
+Exit Load
+01 Jun 2018
+Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+08 May 2015
+Exit load of 1% if redeemed within 1 year
+18 Dec 2014
+Exit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months
+01 Jan 2013
+Exit load of 1% if redeemed within 1 year
+Exit load, stamp duty and tax
+Exit load
+Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+================================================================================
+chunk_id: 0042
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 166
+--------------------------------------------------------------------------------
+redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+
+================================================================================
+chunk_id: 0043
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 426
+--------------------------------------------------------------------------------
+Compare similar funds
+Name
+1Y
+3Y
+Fund Size(Cr)
+Aditya Birla Sun Life Balanced Advantage Fund Direct Growth
++3.44%
++10.75%
+9,836.35
+ICICI Prudential Balanced Advantage Direct Growth
++0.39%
++9.87%
+71,913.46
+DSP Dynamic Asset Allocation Fund Direct Growth
++1.43%
++9.65%
+3,703.78
+HDFC Balanced Advantage Fund Direct Growth
+-4.13%
++9.64%
+1,02,533.95
+Nippon India Balanced Advantage Fund Direct Growth
+-0.19%
++9.59%
+9,532.23
+Compare
+
+================================================================================
+chunk_id: 0044
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 779
+--------------------------------------------------------------------------------
+Fund management
+AB
+Anil Bamboli
+Jul 2022
+- Present
+View details
+Education
+Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI.
+Experience
+Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.
+Also manages these schemes
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Gilt Fund Direct Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+
+================================================================================
+chunk_id: 0045
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+t Allocation Fund Direct Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Income Plus Arbitrage Active FoF Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Multi Asset Active FoF Direct Growth
+HDFC Children's Fund Direct Plan
+AA
+Arun Agarwal
+Oct 2022
+- Present
+View details
+Education
+Mr. Agarwal is a B.Com. and Chartered Accountant
+Experience
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.
+Also manages these schemes
+HDFC Gold ETF Fund of Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC NIFTY 50 Index Fund Direct Growth
+HDFC BSE Sensex Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0046
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 777
+--------------------------------------------------------------------------------
+of Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC NIFTY 50 Index Fund Direct Growth
+HDFC BSE Sensex Index Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
+HDFC NIFTY 50 ETF IDCW
+HDFC NIFTY50 Equal Weight Index Fund Direct Growth
+HDFC Developed World Overseas Equity Passive FoF Direct Growth
+HDFC NIFTY Next 50 Index Fund Direct Growth
+HDFC NIFTY 100 Index Fund Direct Growth
+HDFC NIFTY 100 Equal Weight Index Fund Direct Growth
+HDFC Silver ETF FoF Direct Growth
+HDFC NIFTY Midcap 150 Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0047
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 782
+--------------------------------------------------------------------------------
+nd Direct Growth
+HDFC NIFTY 100 Equal Weight Index Fund Direct Growth
+HDFC Silver ETF FoF Direct Growth
+HDFC NIFTY Midcap 150 Index Fund Direct Growth
+HDFC Nifty Smallcap 250 Index Fund Direct Growth
+HDFC BSE 500 Index Fund Direct Growth
+HDFC BSE Sensex ETF
+HDFC NIFTY200 Momentum 30 Index Fund Direct Growth
+HDFC NIFTY Realty Index Fund Direct Growth
+HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth
+HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth
+HDFC Nifty LargeMidcap 250 Index Fund Direct Growth
+HDFC Nifty India Digital Index Fund Direct Growth
+HDFC Nifty100 Quality 30 Index Fund Direct Growth
+HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth
+HDFC BSE India Sector Leaders Index Fund Direct Growth
+HDFC Nifty India Consumption Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0048
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 787
+--------------------------------------------------------------------------------
+20 Equal Weight Index Fund Direct Growth
+HDFC BSE India Sector Leaders Index Fund Direct Growth
+HDFC Nifty India Consumption Index Fund Direct Growth
+HDFC Nifty Auto Index Fund Direct Growth
+HDFC Nifty Metal ETF FoF Direct Growth
+HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+
+================================================================================
+chunk_id: 0049
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 776
+--------------------------------------------------------------------------------
+ells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+
+================================================================================
+chunk_id: 0050
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 781
+--------------------------------------------------------------------------------
+Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+
+================================================================================
+chunk_id: 0051
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 783
+--------------------------------------------------------------------------------
+und Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+NM
+Nandita Menezes
+Mar 2025
+- Present
+View details
+Education
+CA (ICAI, INDIA), B.Com (University of Mumbai)
+Experience
+Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.
+Also manages these schemes
+HDFC Gold ETF Fund of Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC NIFTY 50 Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0052
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 795
+--------------------------------------------------------------------------------
+manages these schemes
+HDFC Gold ETF Fund of Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC NIFTY 50 Index Fund Direct Growth
+HDFC BSE Sensex Index Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
+HDFC NIFTY50 Equal Weight Index Fund Direct Growth
+HDFC Developed World Overseas Equity Passive FoF Direct Growth
+HDFC NIFTY Next 50 Index Fund Direct Growth
+HDFC NIFTY 100 Index Fund Direct Growth
+HDFC NIFTY 100 Equal Weight Index Fund Direct Growth
+HDFC Silver ETF FoF Direct Growth
+HDFC NIFTY Midcap 150 Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0053
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 762
+--------------------------------------------------------------------------------
+nd Direct Growth
+HDFC NIFTY 100 Equal Weight Index Fund Direct Growth
+HDFC Silver ETF FoF Direct Growth
+HDFC NIFTY Midcap 150 Index Fund Direct Growth
+HDFC Nifty Smallcap 250 Index Fund Direct Growth
+HDFC BSE 500 Index Fund Direct Growth
+HDFC NIFTY200 Momentum 30 Index Fund Direct Growth
+HDFC NIFTY Realty Index Fund Direct Growth
+HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth
+HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth
+HDFC Nifty LargeMidcap 250 Index Fund Direct Growth
+HDFC Nifty India Digital Index Fund Direct Growth
+HDFC Nifty100 Quality 30 Index Fund Direct Growth
+HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth
+HDFC BSE India Sector Leaders Index Fund Direct Growth
+HDFC Nifty India Consumption Index Fund Direct Growth
+
+================================================================================
+chunk_id: 0054
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 780
+--------------------------------------------------------------------------------
+20 Equal Weight Index Fund Direct Growth
+HDFC BSE India Sector Leaders Index Fund Direct Growth
+HDFC Nifty India Consumption Index Fund Direct Growth
+HDFC Gold Silver Passive FoF Direct Growth
+HDFC Nifty Auto Index Fund Direct Growth
+HDFC Nifty Metal ETF FoF Direct Growth
+HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
+GA
+Gopal Agrawal
+Jul 2022
+- Present
+View details
+Education
+Mr.Agrawal is a B.E and MBM.
+Experience
+Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.
+Also manages these schemes
+HDFC Balanced Advantage Fund Direct Growth
+
+================================================================================
+chunk_id: 0055
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 769
+--------------------------------------------------------------------------------
+Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.
+Also manages these schemes
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
+HDFC Dividend Yield Fund Direct Growth
+ID
+Ihab Dalwai
+Sep 2026
+- Present
+View details
+Education
+Mr. Dalwai is a Chartered Accountant.
+Experience
+Prior to joining the HDFC AMC, he was associated with ICICI Prudential AMC.
+Also manages these schemes
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Multi Asset Active FoF Direct Growth
+
+================================================================================
+chunk_id: 0056
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 206
+--------------------------------------------------------------------------------
+Direct Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Multi Asset Active FoF Direct Growth
+HDFC Diversified Equity All Cap Active FoF Direct Growth
+
+================================================================================
+chunk_id: 0057
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: about
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 677
+--------------------------------------------------------------------------------
+About
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 13 Oct 2026 is ₹548.71.
+The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+;
+
+================================================================================
+chunk_id: 0058
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: investment_objective
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 139
+--------------------------------------------------------------------------------
+Investment Objective
+The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments.
+
+================================================================================
+chunk_id: 0059
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: benchmark
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 57
+--------------------------------------------------------------------------------
+Fund benchmark
+NIFTY 50 Hybrid Composite Debt 50:50 Index
+
+================================================================================
+chunk_id: 0060
+scheme_name: HDFC Balanced Advantage Fund Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 723
+--------------------------------------------------------------------------------
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+HDFC Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+HDFC Mutual Fund
+>
+HDFC Balanced Advantage Fund Direct Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+
+================================================================================
+chunk_id: 0061
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: snapshot
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 189
+--------------------------------------------------------------------------------
+HDFC ELSS Tax Saver Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
+NAV: 13 Oct '26
+₹1,421.55
+Min. for SIP
+₹500
+Fund size (AUM)
+₹14,948.73 Cr
+Expense ratio
+1.20%
+Rating
+5
+
+================================================================================
+chunk_id: 0062
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 261
+--------------------------------------------------------------------------------
+Return calculator
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹56,612
+-5.65
+%
+3 years
+₹1,80,000
+₹1,80,868
++
+0.48
+%
+5 years
+₹3,00,000
+₹3,80,226
++
+26.74
+%
+10 years
+₹6,00,000
+₹11,86,967
++
+97.83
+%
+
+================================================================================
+chunk_id: 0063
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+Holdings (
+64
+)
+Name
+Sector
+Instruments
+Assets
+ICICI Bank Ltd
+Financial
+Equity
+9.06%
+HDFC Bank Ltd
+Financial
+Equity
+7.87%
+Axis Bank Ltd
+Financial
+Equity
+6.56%
+Kotak Mahindra Bank Ltd
+Financial
+Equity
+4.88%
+State Bank of India
+Financial
+Equity
+4.49%
+Bharti Airtel Ltd
+Technology
+Equity
+4.45%
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Equity
+4.40%
+SBI Life Insurance Company Ltd
+Financial
+Equity
+3.21%
+HCL Technologies Ltd
+Technology
+Equity
+2.94%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+2.72%
+Reliance Industries Ltd
+Energy & Utilities
+Equity
+2.64%
+Zomato Ltd
+Technology
+Equity
+2.41%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+1.88%
+Tata Steel Ltd
+Materials
+Equity
+1.85%
+Britannia Industries Ltd
+Consumer Staples
+Equity
+1.69%
+Larsen & Toubro Ltd
+Industrials
+Equity
+1.59%
+
+================================================================================
+chunk_id: 0064
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+Equity
+1.88%
+Tata Steel Ltd
+Materials
+Equity
+1.85%
+Britannia Industries Ltd
+Consumer Staples
+Equity
+1.69%
+Larsen & Toubro Ltd
+Industrials
+Equity
+1.59%
+JSW Steel Ltd
+Materials
+Equity
+1.55%
+Dr. Lal Pathlabs Ltd
+Healthcare
+Equity
+1.52%
+Apollo Hospitals Enterprise Ltd
+Healthcare
+Equity
+1.50%
+Bosch Ltd
+Consumer Discretionary
+Equity
+1.42%
+Interglobe Aviation Ltd
+Industrials
+Equity
+1.37%
+Karur Vysya Bank Ltd
+Financial
+Equity
+1.30%
+Jubilant FoodWorks Ltd
+Consumer Discretionary
+Equity
+1.21%
+Alkem Laboratories Ltd
+Healthcare
+Equity
+1.21%
+Hindustan Aeronautics Ltd
+Industrials
+Equity
+1.17%
+Metropolis Healthcare Ltd
+Healthcare
+Equity
+1.16%
+Cipla Ltd
+Healthcare
+Equity
+1.11%
+ICICI Lombard General Insurance Company Ltd
+Financial
+Equity
+1.10%
+Power Grid Corporation of India Ltd
+Energy & Utilities
+Equity
+
+================================================================================
+chunk_id: 0065
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 781
+--------------------------------------------------------------------------------
+althcare
+Equity
+1.11%
+ICICI Lombard General Insurance Company Ltd
+Financial
+Equity
+1.10%
+Power Grid Corporation of India Ltd
+Energy & Utilities
+Equity
+1.09%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+1.07%
+ICICI Prudential Asset Management Company Ltd.
+Financial
+Equity
+1.05%
+United Spirits Ltd
+Consumer Staples
+Equity
+1.03%
+Tech Mahindra Ltd
+Technology
+Equity
+1.02%
+Mphasis Ltd
+Technology
+Equity
+1.01%
+JSW Energy Ltd
+Energy & Utilities
+Equity
+0.97%
+Infosys Ltd
+Technology
+Equity
+0.96%
+Lupin Ltd
+Healthcare
+Equity
+0.95%
+Eicher Motors Ltd
+Consumer Discretionary
+Equity
+0.86%
+PB Fintech Ltd
+Financial
+Equity
+0.84%
+Chalet Hotels Ltd
+Consumer Discretionary
+Equity
+0.81%
+IIFL Wealth Management Ltd
+Financial
+Equity
+0.79%
+Hindustan Unilever Ltd
+Consumer Staples
+Equity
+0.75%
+
+================================================================================
+chunk_id: 0066
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+Hotels Ltd
+Consumer Discretionary
+Equity
+0.81%
+IIFL Wealth Management Ltd
+Financial
+Equity
+0.79%
+Hindustan Unilever Ltd
+Consumer Staples
+Equity
+0.75%
+Godrej Consumer Products Ltd
+Consumer Staples
+Equity
+0.74%
+Havells India Ltd
+Consumer Discretionary
+Equity
+0.73%
+Mahindra & Mahindra Ltd
+Consumer Discretionary
+Equity
+0.69%
+Cummins India Ltd
+Industrials
+Equity
+0.68%
+Westlife Development Ltd
+Consumer Discretionary
+Equity
+0.59%
+Birla Corporation Ltd
+Materials
+Equity
+0.56%
+Bharat Electronics Ltd
+Industrials
+Equity
+0.56%
+Life Insurance Corporation of India
+Financial
+Equity
+0.53%
+Repo
+Unspecified
+Repo
+0.47%
+The Ramco Cements Ltd
+Materials
+Equity
+0.45%
+Cyient Ltd
+Technology
+Equity
+0.44%
+Suven Pharmaceuticals Ltd
+Healthcare
+Equity
+0.42%
+GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100
+Entities
+
+================================================================================
+chunk_id: 0067
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 725
+--------------------------------------------------------------------------------
+.45%
+Cyient Ltd
+Technology
+Equity
+0.44%
+Suven Pharmaceuticals Ltd
+Healthcare
+Equity
+0.42%
+GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100
+Entities
+GOI Securities
+0.34%
+TeamLease Services Ltd
+Industrials
+Equity
+0.31%
+Popular Vehicles And Services Ltd.
+Consumer Discretionary
+Equity
+0.31%
+Rubicon Research Ltd.
+Healthcare
+Equity
+0.24%
+Tata Motors Ltd
+Industrials
+Equity
+0.17%
+JK Lakshmi Cement Ltd
+Materials
+Equity
+0.13%
+Bajaj Electricals Ltd
+Consumer Discretionary
+Equity
+0.12%
+Anthem Biosciences Ltd.
+Healthcare
+Equity
+0.07%
+SBI Funds Management Ltd
+Financial
+Equity
+0.05%
+Net Payables
+Unspecified
+Net Payables
+-0.06%
+See All
+Minimum investments
+Min. for 1st investment
+₹500
+Min. for 2nd investment
+₹500
+Min. for SIP
+₹500
+
+================================================================================
+chunk_id: 0068
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 384
+--------------------------------------------------------------------------------
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++11.1%
++12.2%
++12.4%
++13.5%
+Category average (
+Equity ELSS
+)
++10.6%
++9.5%
++12.8%
++16.9%
+Rank (
+Equity ELSS
+)
+11
+5
+17
+--
+
+================================================================================
+chunk_id: 0069
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 734
+--------------------------------------------------------------------------------
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+
+================================================================================
+chunk_id: 0070
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 332
+--------------------------------------------------------------------------------
+Exit Load
+01 Jan 2013
+--
+Exit load, stamp duty and tax
+Exit load
+Nil
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+
+================================================================================
+chunk_id: 0071
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 797
+--------------------------------------------------------------------------------
+Fund management
+AK
+Amar Kalkundrikar
+Dec 2025
+- Present
+View details
+Education
+Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.
+Experience
+Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.
+Also manages these schemes
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Multi Cap Fund Direct Growth
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+
+================================================================================
+chunk_id: 0072
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 782
+--------------------------------------------------------------------------------
+obal Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+
+================================================================================
+chunk_id: 0073
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 794
+--------------------------------------------------------------------------------
+rect Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+
+================================================================================
+chunk_id: 0074
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 458
+--------------------------------------------------------------------------------
+d Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+
+================================================================================
+chunk_id: 0075
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: about
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 584
+--------------------------------------------------------------------------------
+About
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 13 Oct 2026 is ₹1,421.55.
+The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
+;
+
+================================================================================
+chunk_id: 0076
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: investment_objective
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 162
+--------------------------------------------------------------------------------
+Investment Objective
+The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+
+================================================================================
+chunk_id: 0077
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: benchmark
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 43
+--------------------------------------------------------------------------------
+Fund benchmark
+NIFTY 500 Total Return Index
+
+================================================================================
+chunk_id: 0078
+scheme_name: HDFC ELSS Tax Saver Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 728
+--------------------------------------------------------------------------------
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+Deutsche Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+HDFC Mutual Fund
+>
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+
+================================================================================
+chunk_id: 0079
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: snapshot
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 181
+--------------------------------------------------------------------------------
+HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
+NAV: 13 Oct '26
+₹2,166.94
+Min. for SIP
+₹100
+Fund size (AUM)
+₹1,08,546.97 Cr
+Expense ratio
+0.75%
+Rating
+5
+
+================================================================================
+chunk_id: 0080
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 262
+--------------------------------------------------------------------------------
+Return calculator
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹58,419
+-2.63
+%
+3 years
+₹1,80,000
+₹1,92,896
++
+7.16
+%
+5 years
+₹3,00,000
+₹4,10,289
++
+36.76
+%
+10 years
+₹6,00,000
+₹13,88,150
++
+131.36
+%
+
+================================================================================
+chunk_id: 0081
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 793
+--------------------------------------------------------------------------------
+Holdings (
+86
+)
+Name
+Sector
+Instruments
+Assets
+ICICI Bank Ltd
+Financial
+Equity
+8.80%
+Axis Bank Ltd
+Financial
+Equity
+6.11%
+HDFC Bank Ltd
+Financial
+Equity
+6.03%
+State Bank of India
+Financial
+Equity
+3.94%
+Zomato Ltd
+Technology
+Equity
+3.46%
+Kotak Mahindra Bank Ltd
+Financial
+Equity
+3.40%
+SBI Life Insurance Company Ltd
+Financial
+Equity
+3.25%
+Larsen & Toubro Ltd
+Industrials
+Equity
+3.08%
+Interglobe Aviation Ltd
+Industrials
+Equity
+2.99%
+Repo
+Unspecified
+Repo
+2.81%
+Bharti Airtel Ltd
+Technology
+Equity
+2.62%
+Maruti Suzuki India Ltd
+Consumer Discretionary
+Equity
+2.57%
+Cipla Ltd
+Healthcare
+Equity
+2.47%
+HCL Technologies Ltd
+Technology
+Equity
+2.44%
+Eicher Motors Ltd
+Consumer Discretionary
+Equity
+2.30%
+Power Grid Corporation of India Ltd
+Energy & Utilities
+Equity
+2.11%
+Nexus Select Trust
+Industrials
+
+================================================================================
+chunk_id: 0082
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 798
+--------------------------------------------------------------------------------
+cher Motors Ltd
+Consumer Discretionary
+Equity
+2.30%
+Power Grid Corporation of India Ltd
+Energy & Utilities
+Equity
+2.11%
+Nexus Select Trust
+Industrials
+Real Estate Investment Trusts
+1.70%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+1.68%
+Divi's Laboratories Ltd
+Healthcare
+Equity
+1.62%
+Max Healthcare Institute Ltd
+Healthcare
+Equity
+1.46%
+JSW Steel Ltd
+Materials
+Equity
+1.45%
+Reliance Industries Ltd
+Energy & Utilities
+Equity
+1.40%
+Piramal Pharma Ltd
+Healthcare
+Equity
+1.37%
+Persistent Systems Ltd
+Technology
+Equity
+1.32%
+Bosch Ltd
+Consumer Discretionary
+Equity
+1.30%
+PB Fintech Ltd
+Financial
+Equity
+1.12%
+TVS Motor Company Ltd
+Consumer Discretionary
+Equity
+0.96%
+Varroc Engineering Ltd
+Consumer Discretionary
+Equity
+0.92%
+Lupin Ltd
+Healthcare
+Equity
+0.91%
+Tata Steel Ltd
+Materials
+Equity
+
+================================================================================
+chunk_id: 0083
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 796
+--------------------------------------------------------------------------------
+iscretionary
+Equity
+0.96%
+Varroc Engineering Ltd
+Consumer Discretionary
+Equity
+0.92%
+Lupin Ltd
+Healthcare
+Equity
+0.91%
+Tata Steel Ltd
+Materials
+Equity
+0.88%
+Ultratech Cement Ltd
+Materials
+Equity
+0.87%
+Lenskart Solutions Ltd.
+Consumer Discretionary
+Equity
+0.85%
+Aster DM Healthcare Ltd
+Healthcare
+Equity
+0.79%
+Apollo Hospitals Enterprise Ltd
+Healthcare
+Equity
+0.79%
+Dr. Lal Pathlabs Ltd
+Healthcare
+Equity
+0.76%
+United Spirits Ltd
+Consumer Staples
+Equity
+0.72%
+FSN E-Commerce Ventures Ltd
+Consumer Discretionary
+Equity
+0.72%
+Britannia Industries Ltd
+Consumer Staples
+Equity
+0.67%
+BSE Ltd
+Financial
+Equity
+0.65%
+ACME Solar Holdings Ltd.
+Energy & Utilities
+Equity
+0.64%
+Bharat Electronics Ltd
+Industrials
+Equity
+0.62%
+JSW Infrastructure Ltd
+Industrials
+Equity
+0.61%
+Anthem Biosciences Ltd.
+Healthcare
+
+================================================================================
+chunk_id: 0084
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 776
+--------------------------------------------------------------------------------
+lities
+Equity
+0.64%
+Bharat Electronics Ltd
+Industrials
+Equity
+0.62%
+JSW Infrastructure Ltd
+Industrials
+Equity
+0.61%
+Anthem Biosciences Ltd.
+Healthcare
+Equity
+0.59%
+Embassy Office Parks REIT
+Real Estate
+Real Estate Investment Trusts
+0.59%
+Kalpataru Power Transmission Ltd
+Industrials
+Equity
+0.58%
+Neuland Laboratories Ltd
+Healthcare
+Equity
+0.55%
+NUVOCO Vistas Corp Ltd
+Materials
+Equity
+0.55%
+Vishal Mega Mart Ltd.
+Consumer Staples
+Equity
+0.54%
+HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
+Technology
+Equity
+0.54%
+Craftsman Automation Ltd
+Consumer Discretionary
+Equity
+0.54%
+Adani Enterprises Ltd
+Materials
+Equity
+0.54%
+ICICI Prudential Asset Management Company Ltd.
+Financial
+Equity
+0.50%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+0.48%
+Infosys Ltd
+Technology
+Equity
+0.46%
+
+================================================================================
+chunk_id: 0085
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 788
+--------------------------------------------------------------------------------
+Prudential Asset Management Company Ltd.
+Financial
+Equity
+0.50%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+0.48%
+Infosys Ltd
+Technology
+Equity
+0.46%
+Prestige Estates Projects Ltd
+Real Estate
+Equity
+0.46%
+Havells India Ltd
+Consumer Discretionary
+Equity
+0.46%
+Nippon Life India Asset Management Ltd
+Financial
+Equity
+0.46%
+CORONA Remedies Ltd.
+Healthcare
+Equity
+0.45%
+Ashok Leyland Ltd
+Industrials
+Equity
+0.42%
+SBI Funds Management Ltd
+Financial
+Equity
+0.39%
+Sapphire Foods India Ltd
+Consumer Discretionary
+Equity
+0.39%
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Equity
+0.36%
+Dixon Technologies (India) Ltd
+Consumer Discretionary
+Equity
+0.32%
+Metropolis Healthcare Ltd
+Healthcare
+Equity
+0.32%
+The Ramco Cements Ltd
+Materials
+Equity
+0.31%
+Escorts Kubota Ltd
+Industrials
+Equity
+0.30%
+
+================================================================================
+chunk_id: 0086
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 794
+--------------------------------------------------------------------------------
+quity
+0.32%
+Metropolis Healthcare Ltd
+Healthcare
+Equity
+0.32%
+The Ramco Cements Ltd
+Materials
+Equity
+0.31%
+Escorts Kubota Ltd
+Industrials
+Equity
+0.30%
+Life Insurance Corporation of India
+Financial
+Equity
+0.28%
+Restaurant Brands Asia Ltd
+Consumer Discretionary
+Equity
+0.28%
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Equity
+0.28%
+Molbio Diagnostics Ltd.
+Healthcare
+Equity
+0.28%
+GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100
+Entities
+GOI Securities
+0.27%
+Oil & Natural Gas Corporation Ltd
+Energy & Utilities
+Equity
+0.27%
+Apar Industries Ltd
+Diversified
+Equity
+0.27%
+Swiggy Ltd.
+Technology
+Equity
+0.25%
+Ather Energy Ltd.
+Consumer Discretionary
+Equity
+0.25%
+Biocon Ltd
+Healthcare
+Equity
+0.25%
+ABB India Ltd
+Industrials
+Equity
+0.24%
+JK Lakshmi Cement Ltd
+Materials
+Equity
+
+================================================================================
+chunk_id: 0087
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 714
+--------------------------------------------------------------------------------
+.
+Consumer Discretionary
+Equity
+0.25%
+Biocon Ltd
+Healthcare
+Equity
+0.25%
+ABB India Ltd
+Industrials
+Equity
+0.24%
+JK Lakshmi Cement Ltd
+Materials
+Equity
+0.23%
+Hindustan Petroleum Corporation Ltd
+Energy & Utilities
+Equity
+0.23%
+Diamond Power Infrastructure Ltd
+Industrials
+Equity
+0.23%
+Rubicon Research Ltd.
+Healthcare
+Equity
+0.20%
+Mphasis Ltd
+Technology
+Equity
+0.17%
+GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100
+Entities
+GOI Securities
+0.10%
+Tenneco Clean Air India Ltd.
+Consumer Discretionary
+Equity
+0.10%
+7.37% GOI CG 23-10-2028
+Entities
+GOI Securities
+0.09%
+Net Payables
+Unspecified
+Net Payables
+-0.53%
+See All
+Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+
+================================================================================
+chunk_id: 0088
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 393
+--------------------------------------------------------------------------------
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++14.1%
++14.8%
++15.1%
++15.4%
+Category average (
+Equity Flexi Cap
+)
++11.3%
++9.8%
++13.0%
++14.0%
+Rank (
+Equity Flexi Cap
+)
+11
+3
+2
+--
+
+================================================================================
+chunk_id: 0089
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 734
+--------------------------------------------------------------------------------
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+
+================================================================================
+chunk_id: 0090
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 409
+--------------------------------------------------------------------------------
+Exit Load
+01 Jan 2013
+Exit load of 1% if redeemed within 1 year
+Exit load, stamp duty and tax
+Exit load
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+
+================================================================================
+chunk_id: 0091
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 365
+--------------------------------------------------------------------------------
+Compare similar funds
+Name
+1Y
+3Y
+Fund Size(Cr)
+Bank of India Flexi Cap Fund Direct Growth
++7.76%
++17.95%
+3,098.01
+ITI Flexi Cap Fund Direct Growth
++9.50%
++17.91%
+1,588.27
+HSBC Flexi Cap Fund Direct Growth
++3.12%
++14.65%
+5,748.73
+HDFC Flexi Cap Direct Plan Growth
+-4.30%
++14.09%
+1,08,546.97
+Franklin India Flexi Cap Fund Direct Growth
+-7.91%
++8.86%
+18,188.24
+Compare
+
+================================================================================
+chunk_id: 0092
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 763
+--------------------------------------------------------------------------------
+Fund management
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+
+================================================================================
+chunk_id: 0093
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 772
+--------------------------------------------------------------------------------
+Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+
+================================================================================
+chunk_id: 0094
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 787
+--------------------------------------------------------------------------------
+ect Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+AG
+Amit Ganatra
+Feb 2026
+- Present
+View details
+Education
+
+================================================================================
+chunk_id: 0095
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 528
+--------------------------------------------------------------------------------
+uring Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+AG
+Amit Ganatra
+Feb 2026
+- Present
+View details
+Education
+Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
+Experience
+Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Focused Fund Direct Growth
+
+================================================================================
+chunk_id: 0096
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: about
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 582
+--------------------------------------------------------------------------------
+About
+HDFC Flexi Cap Direct Plan Growth
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 13 Oct 2026 is ₹2,166.94.
+The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+;
+
+================================================================================
+chunk_id: 0097
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: investment_objective
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 160
+--------------------------------------------------------------------------------
+Investment Objective
+The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
+
+================================================================================
+chunk_id: 0098
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: benchmark
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 43
+--------------------------------------------------------------------------------
+Fund benchmark
+NIFTY 500 Total Return Index
+
+================================================================================
+chunk_id: 0099
+scheme_name: HDFC Flexi Cap Fund Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 718
+--------------------------------------------------------------------------------
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+Deutsche Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+HDFC Mutual Fund
+>
+HDFC Flexi Cap Direct Plan Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+
+================================================================================
+chunk_id: 0100
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: snapshot
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 179
+--------------------------------------------------------------------------------
+HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
+NAV: 13 Oct '26
+₹1,158.97
+Min. for SIP
+₹100
+Fund size (AUM)
+₹37,293.95 Cr
+Expense ratio
+1.04%
+Rating
+4
+
+================================================================================
+chunk_id: 0101
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 260
+--------------------------------------------------------------------------------
+Return calculator
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹56,676
+-5.54
+%
+3 years
+₹1,80,000
+₹1,76,272
+-2.07
+%
+5 years
+₹3,00,000
+₹3,51,766
++
+17.26
+%
+10 years
+₹6,00,000
+₹10,68,511
++
+78.09
+%
+
+================================================================================
+chunk_id: 0102
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 799
+--------------------------------------------------------------------------------
+Holdings (
+49
+)
+Name
+Sector
+Instruments
+Assets
+ICICI Bank Ltd
+Financial
+Equity
+9.79%
+HDFC Bank Ltd
+Financial
+Equity
+7.36%
+Bharti Airtel Ltd
+Technology
+Equity
+6.46%
+Kotak Mahindra Bank Ltd
+Financial
+Equity
+6.08%
+Titan Company Ltd
+Consumer Discretionary
+Equity
+5.07%
+Reliance Industries Ltd
+Energy & Utilities
+Equity
+4.76%
+Torrent Pharmaceuticals Ltd
+Healthcare
+Equity
+4.09%
+Axis Bank Ltd
+Financial
+Equity
+3.52%
+Bajaj Finserv Ltd
+Financial
+Equity
+3.05%
+Bajaj Auto Ltd
+Consumer Discretionary
+Equity
+2.81%
+Zomato Ltd
+Technology
+Equity
+2.60%
+Infosys Ltd
+Technology
+Equity
+2.59%
+Lupin Ltd
+Healthcare
+Equity
+2.51%
+Cholamandalam Investment & Finance Company Ltd
+Financial
+Equity
+2.28%
+Ambuja Cements Ltd
+Materials
+Equity
+2.24%
+Interglobe Aviation Ltd
+Industrials
+Equity
+2.00%
+Larsen & Toubro Ltd
+Industrials
+
+================================================================================
+chunk_id: 0103
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 796
+--------------------------------------------------------------------------------
+Ltd
+Financial
+Equity
+2.28%
+Ambuja Cements Ltd
+Materials
+Equity
+2.24%
+Interglobe Aviation Ltd
+Industrials
+Equity
+2.00%
+Larsen & Toubro Ltd
+Industrials
+Equity
+1.98%
+Tata Motors Ltd
+Industrials
+Equity
+1.94%
+NTPC Ltd
+Energy & Utilities
+Equity
+1.93%
+Mankind Pharma Ltd.
+Healthcare
+Equity
+1.84%
+State Bank of India
+Financial
+Equity
+1.83%
+United Spirits Ltd
+Consumer Staples
+Equity
+1.73%
+Max Healthcare Institute Ltd
+Healthcare
+Equity
+1.65%
+ICICI Prudential Asset Management Company Ltd.
+Financial
+Equity
+1.57%
+Indusind Bank Ltd
+Financial
+Equity
+1.49%
+Vishal Mega Mart Ltd.
+Consumer Staples
+Equity
+1.33%
+Tata Consumer Products Ltd
+Consumer Staples
+Equity
+1.29%
+Swiggy Ltd.
+Technology
+Equity
+1.24%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+1.19%
+Repo
+Unspecified
+Repo
+1.19%
+Havells India Ltd
+
+================================================================================
+chunk_id: 0104
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 789
+--------------------------------------------------------------------------------
+y
+1.29%
+Swiggy Ltd.
+Technology
+Equity
+1.24%
+Hyundai Motor India Ltd.
+Consumer Discretionary
+Equity
+1.19%
+Repo
+Unspecified
+Repo
+1.19%
+Havells India Ltd
+Consumer Discretionary
+Equity
+1.18%
+Adani Ports and Special Economic Zone Ltd
+Industrials
+Equity
+1.05%
+Eicher Motors Ltd
+Consumer Discretionary
+Equity
+0.99%
+SRF Ltd
+Materials
+Equity
+0.92%
+TATA CAPITAL LIMITED EQ
+Financial
+Equity
+0.72%
+Dabur India Ltd
+Consumer Staples
+Equity
+0.70%
+SBI Funds Management Ltd
+Financial
+Equity
+0.64%
+CG Power & Industrial Solutions Ltd
+Industrials
+Equity
+0.62%
+Mahindra & Mahindra Ltd
+Consumer Discretionary
+Equity
+0.62%
+GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100
+Entities
+GOI Securities
+0.51%
+Bharat Electronics Ltd
+Industrials
+Equity
+0.47%
+Life Insurance Corporation of India
+Financial
+Equity
+0.41%
+
+================================================================================
+chunk_id: 0105
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 599
+--------------------------------------------------------------------------------
+.68 FV RS 100
+Entities
+GOI Securities
+0.51%
+Bharat Electronics Ltd
+Industrials
+Equity
+0.47%
+Life Insurance Corporation of India
+Financial
+Equity
+0.41%
+Tata Motors Ltd
+Consumer Discretionary
+Equity
+0.40%
+DLF Ltd
+Real Estate
+Equity
+0.38%
+Cummins India Ltd
+Industrials
+Equity
+0.29%
+Billionbrains Garage Ventures Ltd.
+Financial
+Equity
+0.28%
+National Stock Exchange Of India Ltd Equity
+Financial
+Equity
+0.25%
+Hindalco Industries Ltd
+Materials
+Equity
+0.23%
+Net Payables
+Unspecified
+Net Payables
+-0.07%
+See All
+Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+
+================================================================================
+chunk_id: 0106
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 392
+--------------------------------------------------------------------------------
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++7.0%
++8.8%
++11.6%
++12.4%
+Category average (
+Equity Large Cap
+)
++9.4%
++7.9%
++11.7%
++12.4%
+Rank (
+Equity Large Cap
+)
+45
+21
+14
+--
+
+================================================================================
+chunk_id: 0107
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 734
+--------------------------------------------------------------------------------
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+
+================================================================================
+chunk_id: 0108
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 520
+--------------------------------------------------------------------------------
+Exit Load
+08 May 2015
+Exit load of 1% if redeemed within 1 year
+16 Feb 2015
+Exit load of 1% if redeemed within 18 months
+01 Jan 2013
+Exit load of 1% if redeemed within 1 year
+Exit load, stamp duty and tax
+Exit load
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+
+================================================================================
+chunk_id: 0109
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 376
+--------------------------------------------------------------------------------
+Compare similar funds
+Name
+1Y
+3Y
+Fund Size(Cr)
+Invesco India Large Cap Fund Direct Growth
+-2.25%
++12.29%
+1,925.14
+Bandhan Large Cap Fund Direct Growth
+-4.49%
++11.17%
+2,097.65
+Nippon India Large Cap Fund Direct Growth
+-8.35%
++9.09%
+51,296.06
+ICICI Prudential Large Cap Fund Direct Growth
+-9.05%
++8.89%
+76,352.23
+HDFC Large Cap Fund Direct Growth
+-7.56%
++7.04%
+37,293.95
+Compare
+
+================================================================================
+chunk_id: 0110
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 781
+--------------------------------------------------------------------------------
+Fund management
+RB
+Rahul Baijal
+Jul 2022
+- Present
+View details
+Education
+Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
+Experience
+Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.
+Also manages these schemes
+HDFC Large Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Defence Fund Direct Growth
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+================================================================================
+chunk_id: 0111
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 791
+--------------------------------------------------------------------------------
+ining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+
+================================================================================
+chunk_id: 0112
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 780
+--------------------------------------------------------------------------------
+vative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+
+================================================================================
+chunk_id: 0113
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 559
+--------------------------------------------------------------------------------
+und Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+
+================================================================================
+chunk_id: 0114
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: about
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 581
+--------------------------------------------------------------------------------
+About
+HDFC Large Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 13 Oct 2026 is ₹1,158.97.
+The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+;
+
+================================================================================
+chunk_id: 0115
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: investment_objective
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 137
+--------------------------------------------------------------------------------
+Investment Objective
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+
+================================================================================
+chunk_id: 0116
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: benchmark
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 43
+--------------------------------------------------------------------------------
+Fund benchmark
+NIFTY 100 Total Return Index
+
+================================================================================
+chunk_id: 0117
+scheme_name: HDFC Large Cap Fund Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 714
+--------------------------------------------------------------------------------
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+HDFC Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+HDFC Mutual Fund
+>
+HDFC Large Cap Fund Direct Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+
+================================================================================
+chunk_id: 0118
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: snapshot
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 177
+--------------------------------------------------------------------------------
+HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
+NAV: 13 Oct '26
+₹156.02
+Min. for SIP
+₹100
+Fund size (AUM)
+₹40,800.80 Cr
+Expense ratio
+0.79%
+Rating
+3
+
+================================================================================
+chunk_id: 0119
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 262
+--------------------------------------------------------------------------------
+Return calculator
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹59,868
+-0.22
+%
+3 years
+₹1,80,000
+₹1,88,017
++
+4.45
+%
+5 years
+₹3,00,000
+₹3,99,394
++
+33.13
+%
+10 years
+₹6,00,000
+₹14,71,659
++
+145.28
+%
+
+================================================================================
+chunk_id: 0120
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 798
+--------------------------------------------------------------------------------
+Holdings (
+87
+)
+Name
+Sector
+Instruments
+Assets
+Repo
+Unspecified
+Repo
+10.03%
+Firstsource Solutions Ltd
+Industrials
+Equity
+3.68%
+Aster DM Healthcare Ltd
+Healthcare
+Equity
+3.37%
+Gabriel India Ltd
+Consumer Discretionary
+Equity
+3.09%
+eClerx Services Ltd
+Technology
+Equity
+2.92%
+Bank Of Baroda
+Financial
+Equity
+2.65%
+Krishna Institute Of Medical Sciences Ltd
+Healthcare
+Equity
+2.04%
+Apar Industries Ltd
+Diversified
+Equity
+1.92%
+Indian Bank
+Financial
+Equity
+1.91%
+Pearl Global Industries Ltd
+Consumer Discretionary
+Equity
+1.90%
+Eris Lifesciences Ltd
+Healthcare
+Equity
+1.89%
+Home First Finance Company India Ltd
+Financial
+Equity
+1.76%
+PVR Ltd
+Consumer Discretionary
+Equity
+1.75%
+The Great Eastern Shipping Company Ltd
+Energy & Utilities
+Equity
+1.73%
+Sudarshan Chemical Industries Ltd
+Materials
+Equity
+1.71%
+
+================================================================================
+chunk_id: 0121
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 780
+--------------------------------------------------------------------------------
+retionary
+Equity
+1.75%
+The Great Eastern Shipping Company Ltd
+Energy & Utilities
+Equity
+1.73%
+Sudarshan Chemical Industries Ltd
+Materials
+Equity
+1.71%
+Vijaya Diagnostic Centre Ltd
+Healthcare
+Equity
+1.63%
+Chalet Hotels Ltd
+Consumer Discretionary
+Equity
+1.62%
+The Federal Bank Ltd
+Financial
+Equity
+1.61%
+Kalpataru Power Transmission Ltd
+Industrials
+Equity
+1.57%
+City Union Bank Ltd
+Financial
+Equity
+1.48%
+Suprajit Engineering Ltd
+Consumer Discretionary
+Equity
+1.40%
+Redington Ltd
+Technology
+Equity
+1.35%
+Power Mech Projects Ltd
+Industrials
+Equity
+1.34%
+Timken India Ltd
+Industrials
+Equity
+1.34%
+Akzo Nobel India Ltd
+Materials
+Equity
+1.32%
+Aditya Vision Ltd
+Consumer Discretionary
+Equity
+1.28%
+Sonata Software Ltd
+Technology
+Equity
+1.28%
+Dodla Dairy Ltd
+Consumer Staples
+Equity
+1.24%
+
+================================================================================
+chunk_id: 0122
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 782
+--------------------------------------------------------------------------------
+1.32%
+Aditya Vision Ltd
+Consumer Discretionary
+Equity
+1.28%
+Sonata Software Ltd
+Technology
+Equity
+1.28%
+Dodla Dairy Ltd
+Consumer Staples
+Equity
+1.24%
+Godrej Consumer Products Ltd
+Consumer Staples
+Equity
+1.23%
+Vardhman Textiles Ltd
+Consumer Discretionary
+Equity
+1.22%
+Tega Industries Ltd
+Industrials
+Equity
+1.20%
+Blue Dart Express Ltd
+Industrials
+Equity
+1.18%
+LG Balakrishnan & Brothers Ltd
+Industrials
+Equity
+1.18%
+Equitas Small Finance Bank Ltd
+Financial
+Equity
+1.15%
+NRB Bearings Ltd
+Industrials
+Equity
+1.12%
+Fiem Industries Ltd
+Consumer Discretionary
+Equity
+1.04%
+Voltamp Transformers Ltd
+Industrials
+Equity
+1.03%
+JK Tyre & Industries Ltd
+Consumer Discretionary
+Equity
+1.03%
+Indigo Paints Ltd
+Materials
+Equity
+1.03%
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Equity
+1.03%
+
+================================================================================
+chunk_id: 0123
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 793
+--------------------------------------------------------------------------------
+tries Ltd
+Consumer Discretionary
+Equity
+1.03%
+Indigo Paints Ltd
+Materials
+Equity
+1.03%
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Equity
+1.03%
+Vishal Mega Mart Ltd.
+Consumer Staples
+Equity
+1.02%
+Transport Corporation Of India Ltd
+Industrials
+Equity
+1.02%
+Shoppers Stop Ltd
+Consumer Discretionary
+Equity
+1.02%
+UTI Asset Management Company Ltd
+Financial
+Equity
+1.01%
+VRL Logistics Ltd
+Industrials
+Equity
+1.01%
+Sharda Cropchem Ltd
+Materials
+Equity
+0.97%
+Fortis Healthcare Ltd
+Healthcare
+Equity
+0.94%
+Kirloskar Ferrous Industries Ltd
+Materials
+Equity
+0.91%
+Zensar Technologies Ltd
+Technology
+Equity
+0.90%
+Chambal Fertilisers & Chemicals Ltd
+Materials
+Equity
+0.86%
+Lumax Industries Ltd
+Consumer Discretionary
+Equity
+0.83%
+GMM Pfaudler Ltd
+Industrials
+Equity
+0.76%
+SKF India (Industrial) Ltd
+
+================================================================================
+chunk_id: 0124
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 788
+--------------------------------------------------------------------------------
+d
+Materials
+Equity
+0.86%
+Lumax Industries Ltd
+Consumer Discretionary
+Equity
+0.83%
+GMM Pfaudler Ltd
+Industrials
+Equity
+0.76%
+SKF India (Industrial) Ltd
+Industrials
+Equity
+0.75%
+DHFL VYSYA HOUSING FINANCE LIMITED EQ
+Financial
+Equity
+0.72%
+Tata Steel Ltd
+Materials
+Equity
+0.70%
+Unichem Laboratories Ltd
+Healthcare
+Equity
+0.66%
+Redtape Ltd
+Consumer Discretionary
+Equity
+0.65%
+Bajaj Consumer Care Ltd
+Consumer Staples
+Equity
+0.62%
+Mastek Ltd
+Technology
+Equity
+0.61%
+The Anup Engineering Ltd
+Industrials
+Equity
+0.58%
+Wakefit Innovations Ltd.
+Consumer Discretionary
+Equity
+0.57%
+Usha Martin Ltd
+Materials
+Equity
+0.57%
+Vedant Fashions Ltd
+Consumer Discretionary
+Equity
+0.54%
+GNA Axles Ltd
+Consumer Discretionary
+Equity
+0.48%
+Ion Exchange (India) Ltd
+Industrials
+Equity
+0.48%
+Bajaj Electricals Ltd
+
+================================================================================
+chunk_id: 0125
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 788
+--------------------------------------------------------------------------------
+r Discretionary
+Equity
+0.54%
+GNA Axles Ltd
+Consumer Discretionary
+Equity
+0.48%
+Ion Exchange (India) Ltd
+Industrials
+Equity
+0.48%
+Bajaj Electricals Ltd
+Consumer Discretionary
+Equity
+0.47%
+KEC International Ltd
+Diversified
+Equity
+0.46%
+PNC Infratech Ltd
+Industrials
+Equity
+0.43%
+Gateway Distriparks Ltd
+Industrials
+Equity
+0.43%
+SKF India Ltd
+Industrials
+Equity
+0.41%
+Vesuvius India Ltd
+Industrials
+Equity
+0.41%
+Awfis Space Solutions Ltd.
+Industrials
+Equity
+0.40%
+Insecticides (India) Ltd
+Materials
+Equity
+0.37%
+Gujarat Pipavav Port Ltd
+Industrials
+Equity
+0.36%
+La Opala RG Ltd
+Consumer Discretionary
+Equity
+0.35%
+Kei Industries Ltd
+Industrials
+Equity
+0.33%
+IFGL Refractories Ltd
+Industrials
+Equity
+0.31%
+Emami Ltd
+Consumer Staples
+Equity
+0.31%
+G R Infraprojects Ltd
+Industrials
+Equity
+0.29%
+
+================================================================================
+chunk_id: 0126
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: holdings
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 621
+--------------------------------------------------------------------------------
+als
+Equity
+0.33%
+IFGL Refractories Ltd
+Industrials
+Equity
+0.31%
+Emami Ltd
+Consumer Staples
+Equity
+0.31%
+G R Infraprojects Ltd
+Industrials
+Equity
+0.29%
+Jupiter Life Line Hospitals Ltd.
+Healthcare
+Equity
+0.26%
+Goodyear India Ltd
+Consumer Discretionary
+Equity
+0.22%
+Carborundum Universal Ltd
+Materials
+Equity
+0.20%
+DB Corp Ltd
+Industrials
+Equity
+0.20%
+BEML Ltd
+Industrials
+Equity
+0.20%
+Sula Vineyards Ltd
+Consumer Staples
+Equity
+0.20%
+TCI Express Ltd
+Industrials
+Equity
+0.06%
+Net Payables
+Unspecified
+Net Payables
+-0.10%
+See All
+Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+
+================================================================================
+chunk_id: 0127
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 394
+--------------------------------------------------------------------------------
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++9.1%
++12.9%
++16.9%
++17.9%
+Category average (
+Equity Small Cap
+)
++15.4%
++14.8%
++17.2%
++20.0%
+Rank (
+Equity Small Cap
+)
+34
+17
+6
+--
+
+================================================================================
+chunk_id: 0128
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: understand_terms
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 734
+--------------------------------------------------------------------------------
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+
+================================================================================
+chunk_id: 0129
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: exit_load
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 745
+--------------------------------------------------------------------------------
+Exit Load
+08 May 2015
+Exit load of 1% if redeemed within 1 year
+18 Dec 2014
+Exit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months
+01 Jul 2014
+Exit load of 2% if redeemed within 12 months and 1% if redeemed after 12 months but before 18 months
+01 Jan 2013
+Exit load of 1% if redeemed within 1 year
+Exit load, stamp duty and tax
+Exit load
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+
+================================================================================
+chunk_id: 0130
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 373
+--------------------------------------------------------------------------------
+Compare similar funds
+Name
+1Y
+3Y
+Fund Size(Cr)
+ITI Small Cap Fund Direct Growth
++18.30%
++22.68%
+3,666.31
+Bandhan Small Cap Fund Direct Growth
++9.43%
++22.34%
+35,855.60
+Invesco India Small Cap Fund Direct Growth
++11.30%
++20.69%
+16,130.64
+Sundaram Small Cap Fund Direct Growth
++11.88%
++15.00%
+4,106.98
+Nippon India Small Cap Fund Direct Growth
++7.38%
++13.98%
+80,905.55
+Compare
+
+================================================================================
+chunk_id: 0131
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 763
+--------------------------------------------------------------------------------
+Fund management
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+
+================================================================================
+chunk_id: 0132
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 772
+--------------------------------------------------------------------------------
+Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+
+================================================================================
+chunk_id: 0133
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 790
+--------------------------------------------------------------------------------
+ect Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+CS
+Chirag Setalvad
+Jun 2014
+- Present
+View details
+Education
+
+================================================================================
+chunk_id: 0134
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: fund_management
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 617
+--------------------------------------------------------------------------------
+ng Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+CS
+Chirag Setalvad
+Jun 2014
+- Present
+View details
+Education
+Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
+Experience
+Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
+Also manages these schemes
+HDFC Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
+HDFC Children's Fund Direct Plan
+
+================================================================================
+chunk_id: 0135
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: about
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 580
+--------------------------------------------------------------------------------
+About
+HDFC Small Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 13 Oct 2026 is ₹156.02.
+The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+;
+
+================================================================================
+chunk_id: 0136
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: investment_objective
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 138
+--------------------------------------------------------------------------------
+Investment Objective
+The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+
+================================================================================
+chunk_id: 0137
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: benchmark
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 50
+--------------------------------------------------------------------------------
+Fund benchmark
+BSE 250 SmallCap Total Return Index
+
+================================================================================
+chunk_id: 0138
+scheme_name: HDFC Small Cap Fund Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section_title: noise
+ingest_ts: 2026-10-13T19:26:00Z
+char_count: 716
+--------------------------------------------------------------------------------
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+Citibank NA
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+HDFC Mutual Fund
+>
+HDFC Small Cap Fund Direct Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
